@@ -29,6 +29,7 @@ class TweetsController < ApplicationController
 
   def show
   end
+
   private
 
   def tweet_params
